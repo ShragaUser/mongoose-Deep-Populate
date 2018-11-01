@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-deep-populate",
+  "version": "1.0.0",
+  "description": "util functions to allow for deepPopulate in mongoose models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShragaUser/mongoose-Deep-Populate.git"
+  },
+  "author": "Daniel Kidon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShragaUser/mongoose-Deep-Populate/issues"
+  },
+  "homepage": "https://github.com/ShragaUser/mongoose-Deep-Populate#readme",
+  "dependencies": {
+    "mongoose": "^5.3.8"
+  }
+}
